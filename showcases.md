@@ -73,5 +73,5 @@ Simulated piano performance using Manus gloves and ROS2 middleware under supervi
 ### 11. Writing Examples 
 **Subprojects:**
 - Individual Scientific writing from the technical perspective .  [A computer vision experiment report](https://github.com/cassielu12/showcases/blob/main/data%20analysis%20/Computer_Vision__report.pdf)
-- Individual Data analysis report on big data   [The Guardian Tag Analysis](https://github.com/cassielu12/showcases/blob/main/data%20analysis%20/The%20Guardian%20Tags%20Analysis.pdf)
+- Individual contribution on writing Data analysis report on big data   [The Guardian Tag Analysis](https://github.com/cassielu12/showcases/blob/main/data%20analysis%20/The%20Guardian%20Tags%20Analysis.pdf)
 
