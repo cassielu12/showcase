@@ -1,0 +1,16 @@
+setup.py
+augpipe/__init__.py
+augpipe/pipeline_loader.py
+augpipe/utils.py
+augpipe/wrappers.py
+augpipe.egg-info/PKG-INFO
+augpipe.egg-info/SOURCES.txt
+augpipe.egg-info/dependency_links.txt
+augpipe.egg-info/requires.txt
+augpipe.egg-info/top_level.txt
+augpipe/transforms/__init__.py
+augpipe/transforms/base.py
+augpipe/transforms/compose.py
+augpipe/transforms/damage.py
+augpipe/transforms/distortion.py
+augpipe/transforms/geometric.py

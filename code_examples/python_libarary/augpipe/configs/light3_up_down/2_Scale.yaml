@@ -1,0 +1,5 @@
+mode: random
+pipeline:
+- Scale:
+    max_factor: 1.02
+    min_factor: 0.99

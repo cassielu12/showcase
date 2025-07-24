@@ -1,0 +1,5 @@
+mode: random
+pipeline:
+- Distortion:
+    amp: 1.5
+    sigma: 10.0

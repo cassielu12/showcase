@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: augpipe
+Version: 0.2
+Summary: A flexible image augmentation pipeline for OCR
+Author: Zhuoli Lu
+Requires-Dist: opencv-python
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: albumentations
+Requires-Dist: pyyaml
+Requires-Dist: torch
+Requires-Dist: torchvision
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

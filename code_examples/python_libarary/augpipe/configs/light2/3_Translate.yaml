@@ -1,0 +1,5 @@
+mode: random
+pipeline:
+- Translate:
+    x: 2
+    y: 1

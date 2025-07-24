@@ -1,0 +1,4 @@
+mode: random
+pipeline:
+- Rotate:
+    angle: 3

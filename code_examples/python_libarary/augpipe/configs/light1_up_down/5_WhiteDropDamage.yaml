@@ -1,0 +1,5 @@
+mode: random
+pipeline:
+- WhiteDropDamage:
+    drop_length: 3
+    drop_width: 3
