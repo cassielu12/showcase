@@ -47,8 +47,7 @@ Created and annotated a corpus for affective and stylistic analysis.
 Conducted text scraping, classification, and visualization.  
  [Code](https://github.com/cassielu12/The-Guardian_Analysis) |  [Report](https://www.canva.com/design/DAF58eHhuQc/VReWapS-jnplVMkVDze_3g/view)
 
----
- 
+
 ### 8. ROS2 Gesture Interaction *(Group Work)*  
 **Title:** *2D Real-Time Finger Drawing System*  
 Built a real-time interactive drawing system using MediaPipe and OpenCV within a ROS2 framework.  
