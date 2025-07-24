@@ -35,9 +35,8 @@ augpipe/
 ---
 
 ## Installation
-
+after clone
 ```bash
-git clone https://github.com/pumpkinspicassie/augpipe.git
 cd augpipe
 pip install -e .
 
