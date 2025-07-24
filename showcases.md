@@ -67,11 +67,11 @@ Simulated piano performance using Manus gloves and ROS2 middleware under supervi
 
 ### 10. Deep Learning for Historical Document Analysis  
 **Subprojects:**
--  *Custom Augmentation Library:* Designed for OCR noise robustness.  [code](https://github.com/cassielu12/showcases/tree/main/code_examples/python_libarary)
--  *Inference Pipeline:* Implemented layout analysis model inference and evaluation for ancient Hebrew texts.  [example_code] (https://github.com/cassielu12/showcases/blob/main/code_examples/infer_code_example.py)
+- individual contribution *Custom Augmentation Library:* Designed for OCR noise robustness.  [code](https://github.com/cassielu12/showcases/tree/main/code_examples/python_libarary)
+- individual contribution *Inference Pipeline:* Implemented layout analysis model inference and evaluation for ancient Hebrew texts.  [example_code] (https://github.com/cassielu12/showcases/blob/main/code_examples/infer_code_example.py)
 
 ### 11. Writing Examples 
 **Subprojects:**
-- Scientific writing from the technical perspective .  [A computer vision experiment report](https://github.com/cassielu12/showcases/blob/main/data%20analysis%20/Computer_Vision__report.pdf)
-- Data analysis report on big data   [The Guardian Tag Analysis](https://github.com/cassielu12/showcases/blob/main/data%20analysis%20/The%20Guardian%20Tags%20Analysis.pdf)
+- Individual Scientific writing from the technical perspective .  [A computer vision experiment report](https://github.com/cassielu12/showcases/blob/main/data%20analysis%20/Computer_Vision__report.pdf)
+- Individual Data analysis report on big data   [The Guardian Tag Analysis](https://github.com/cassielu12/showcases/blob/main/data%20analysis%20/The%20Guardian%20Tags%20Analysis.pdf)
 
