@@ -54,14 +54,14 @@ Conducted text scraping, classification, and visualization.
 ### 8. ROS2 Gesture Interaction *(Group Work)*  
 **Title:** *2D Real-Time Finger Drawing System*  
 Built a real-time interactive drawing system using MediaPipe and OpenCV within a ROS2 framework.  
- [Demo link] （https://github.com/cassielu12/showcases/blob/main/proof%20of%20concept/finger_tracking_drawing.mp4）
+ [Demo link](https://github.com/cassielu12/showcases/blob/main/proof%20of%20concept/finger_tracking_drawing.mp4)
 
 ---
 
 ### 9. Piano Performance Simulation *(Individual Project)*  
 **Title:** *Embodied Piano Performance in MuJoCo*  
 Simulated piano performance using Manus gloves and ROS2 middleware under supervision of a robotics PhD.  
- [Demo link] （https://github.com/cassielu12/showcases/blob/main/proof%20of%20concept/piano_performance_simulation.mp4）
+ [Demo link](https://github.com/cassielu12/showcases/blob/main/proof%20of%20concept/piano_performance_simulation.mp4)
 
 ---
 
