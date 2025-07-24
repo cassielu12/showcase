@@ -51,7 +51,7 @@ Conducted text scraping, classification, and visualization.
 ### 8. ROS2 Gesture Interaction *(Group Work)*  
 **Title:** *2D Real-Time Finger Drawing System*  
 Built a real-time interactive drawing system using MediaPipe and OpenCV within a ROS2 framework.  
- *Demo link * （）
+ [Demo link] （）
 
 ---
 
