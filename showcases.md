@@ -16,6 +16,8 @@ Mapped and analyzed the distribution of female heads of state using ArcGIS.
 
 ### 3. Serious Game – Original Version *(Group Work)*  
 **Title:** *Identity Quest: The Dice of Life*  [doc](https://github.com/cassielu12/showcases/blob/main/proof%20of%20concept/map_game_group_version.pdf)
+
+
 An interactive map-based serious game designed to provoke reflection on identity and social constraints.  
  [Design Prototype](https://www.figma.com/proto/1EXX3db28ZidN2NvvTk6qM/Untitled?type=design&node-id=1-2&t=A92SfMqOuZJw7PJq-0&scaling=min-zoom&page-id=0%3A1)
 
@@ -23,6 +25,7 @@ An interactive map-based serious game designed to provoke reflection on identity
 
 ### 4. Serious Game – Extended Version *(Individual Contribution)*  
 **Title:** *Identity Quest *  [doc](https://github.com/cassielu12/showcases/blob/main/proof%20of%20concept/map_game_extension_version.pdf)
+
 Prototyped an extended version with enhanced UX and player agency.  
  [Interactive Prototype](https://www.figma.com/proto/miOfJNLkZri1a0DaY2muod/identity-quest?node-id=2004-142&t=8qFQNLi59v3tyRKS-1&scaling=min-zoom&page-id=0%3A1)
 
