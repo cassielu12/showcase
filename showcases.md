@@ -60,7 +60,7 @@ Built a real-time interactive drawing system using MediaPipe and OpenCV within a
 
 ### 9. Piano Performance Simulation *(Individual Project)*  
 **Title:** *Embodied Piano Performance in MuJoCo*  
-Simulated piano performance using Manus gloves and ROS2 middleware under technical supervision of a robotics PhD.  
+Simulated piano performance using Manus gloves and ROS2 middleware under technical guidance of a robotics PhD.  
  [Demo link](https://github.com/cassielu12/showcases/blob/main/proof%20of%20concept/piano_performance_simulation.mp4)
 
 ---
