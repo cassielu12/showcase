@@ -59,8 +59,8 @@ Simulated piano performance using Manus gloves and ROS2 middleware under technic
 
 ### 9. Deep Learning for Historical Document Analysis  
 **Subprojects:**
-- individual contribution *Custom Augmentation Library:* Designed for OCR noise robustness.  [code](https://github.com/cassielu12/showcases/tree/main/code_examples/python_libarary)
-- individual contribution *Inference Pipeline:* Implemented layout analysis model inference and evaluation for ancient Hebrew texts.  [example_code] (https://github.com/cassielu12/showcases/blob/main/code_examples/infer_code_example.py)
+- individual contribution *Custom Augmentation Library:* Designed for OCR noise robustness.  
+- individual contribution *Inference Pipeline:* Implemented layout analysis model inference and evaluation for ancient Hebrew texts. 
 
 ### 10. Writing Examples 
 **Subprojects:**
