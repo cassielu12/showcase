@@ -23,6 +23,11 @@ An interactive map-based serious game designed to provoke reflection on identity
 
 
 ---
+### 4. Serious Game – Extended Version *(Individual Contribution)*  
+**Title:** *Identity Quest *  [doc](https://github.com/cassielu12/showcases/blob/main/proof%20of%20concept/map_game_extension_version.pdf)
+Prototyped an extended version with enhanced UX and player agency.  
+ [Interactive Prototype](https://www.figma.com/proto/miOfJNLkZri1a0DaY2muod/identity-quest?node-id=2004-142&t=8qFQNLi59v3tyRKS-1&scaling=min-zoom&page-id=0%3A1)
+
 
 ### 5. Artistic Intervention *(Group Work)*  
 **Title:** *Hugbox: Echo Chambers in Digital Media*  
